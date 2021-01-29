@@ -2,8 +2,8 @@
 Recreation of official website https://www.marialunarillos.com/
 
 ## OverView
-This was the Skylab first week challenge to re-create the exiting Webpage Maria-Lunarillo to 
-improve and learn CSS styling, flexbox and HTML.
+This was the Skylab Coders Academy's first week challenge to re-create the exiting Webpage Maria-Lunarillo to 
+learn and improve CSS styling and to practice Responsive design. 
 
 ## Technologies
  - HTML5
